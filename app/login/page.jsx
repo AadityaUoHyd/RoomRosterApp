@@ -27,7 +27,7 @@ const LoginPage = () => {
       <div className='bg-white shadow-lg rounded-lg p-6 w-full max-w-sm mt-20'>
         <form action={formAction}>
           <h2 className='text-2xl font-bold text-center text-gray-800 mb-6'>
-            Login
+            ROOM-ROSTER-APP
           </h2>
 
           <div className='mb-4'>
