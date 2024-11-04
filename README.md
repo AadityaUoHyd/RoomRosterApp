@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 you will need to create a new project and database in Appwrite.
 
-Log into your [https://cloud.appwrite.io/console](Appwrite console) and setup your project. Either use `.env.local` or provide those details to environment variables at production server with adding your own values for the Appwrite API key, project ID and database ID environment variables.
+Log into your https://cloud.appwrite.io/console (Appwrite console) and setup your project. Either use `.env.local` or provide those details to environment variables at production server with adding your own values for the Appwrite API key, project ID and database ID environment variables.
